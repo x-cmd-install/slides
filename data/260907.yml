@@ -5,13 +5,13 @@ about:
   head: 92af1ef
   archived: false
   latestVersion: "v0.9.0"
-  collectedAt: 2026-09-07T05:18:50Z
+  collectedAt: 2026-09-07T19:09:35Z
 timeline:
   created: 2021-05-05
   lastCommit: 2026-07-08
   lastRelease: 2022-09-13
 popularity:
-  star: 11648
+  star: 11652
   watcher: 61
   fork: 315
   release: 17
@@ -80,7 +80,7 @@ total:
   commit: 255
 ---
 path: /home/runner/.x-repo/github.com/maaslalani/slides
-collectedAt: 2026-09-07T05:18:51Z
+collectedAt: 2026-09-07T19:09:37Z
 loc:
   Go:
     code: 1840
@@ -211,7 +211,7 @@ checks:
       - 'Warn: 0 commits out of 21 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:52+00:00
+  collectedAt: 2026-09-07T19:09:37+00:00
   platform:
     darwin/arm64:
       name:  slides_0.9.0_darwin_arm64.tar.gz
