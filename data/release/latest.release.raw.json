@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 490,
       "digest": null,
-      "download_count": 376,
+      "download_count": 377,
       "created_at": "2022-09-13T14:32:22Z",
       "updated_at": "2022-09-13T14:32:22Z",
       "browser_download_url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5402636,
       "digest": null,
-      "download_count": 1135,
+      "download_count": 1137,
       "created_at": "2022-09-13T14:32:19Z",
       "updated_at": "2022-09-13T14:32:20Z",
       "browser_download_url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5313994,
       "digest": null,
-      "download_count": 1641,
+      "download_count": 1644,
       "created_at": "2022-09-13T14:32:20Z",
       "updated_at": "2022-09-13T14:32:21Z",
       "browser_download_url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4754144,
       "digest": null,
-      "download_count": 145,
+      "download_count": 147,
       "created_at": "2022-09-13T14:32:19Z",
       "updated_at": "2022-09-13T14:32:19Z",
       "browser_download_url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_linux_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5256819,
       "digest": null,
-      "download_count": 4487,
+      "download_count": 4493,
       "created_at": "2022-09-13T14:32:20Z",
       "updated_at": "2022-09-13T14:32:21Z",
       "browser_download_url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4794256,
       "digest": null,
-      "download_count": 1118,
+      "download_count": 1120,
       "created_at": "2022-09-13T14:32:21Z",
       "updated_at": "2022-09-13T14:32:22Z",
       "browser_download_url": "https://github.com/maaslalani/slides/releases/download/v0.9.0/slides_0.9.0_linux_arm64.tar.gz"
